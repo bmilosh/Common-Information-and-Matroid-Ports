@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+File listing bounds on lambda for current run.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Matroid port Tictactoe port 5 has a 1.2 bound on lambda.
+
+ All 1 matroid ports checked.
+non_CI_mats = ['Tictactoe port 5']
+All 1 matroid ports are non-CI.

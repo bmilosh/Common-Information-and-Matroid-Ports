@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+File listing checked files from polymatroid extension run using all closed sets.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+BasV8 is a non-CI matroid with violating sets {'0', '1'} and {'3', '2'}.
+
+ All 1 matroids checked.
+non_CI_mats = ['BasV8']
+All 1 matroids are non-CI.
