@@ -36,9 +36,13 @@ def mat_circ_gen(Q,B):
                 cir.append(basis[i])
             if len(cir) <= 1: continue
             if sorted(cir) in allcir: continue
-            #allcir.append(sorted(cir))
-            allcir.append(''.join( sorted(cir) ))
-    return allcir  
+            allcir.append(sorted(cir))
+            #allcir.append(''.join( sorted(cir) ))
+    allcircs = list()
+    for thing in allcir:
+        circuit = ''.join(thing)
+        allcircs.append(circuit)
+    return allcircs  
 
 
 # A method to create min Gamma from the port of a matroid at a point.
